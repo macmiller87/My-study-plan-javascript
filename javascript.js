@@ -4,11 +4,11 @@ function CriarParagrafo() {
     paragrafo.textContent = 'Você clicou no botão !';
     document.body.appendChild(paragrafo);
     
-    const botoes = document.querySelectorAll('button');
+    const buttons = document.querySelectorAll('button');
 
-    for(let looping = 0; looping < botoes.length; looping ++) {
+    for(let looping = 0; looping < buttons.length; looping ++) {
 
-        botoes[looping].addEventListener('click', CriarParagrafo);
+        buttons[looping].addEventListener('click', CriarParagrafo);
     }
     
 }
