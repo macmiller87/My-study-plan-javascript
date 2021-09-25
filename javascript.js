@@ -6,7 +6,6 @@ function CriarParagrafo() {
     
 }
 
-
 const buttons = document.querySelectorAll('button');
 
 for(let looping = 0; looping < buttons.length; looping ++) {
