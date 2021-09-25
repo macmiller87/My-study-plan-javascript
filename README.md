@@ -1,1 +1,1 @@
-# My-study-paln-javascript
+# My-study-plan-javascript
