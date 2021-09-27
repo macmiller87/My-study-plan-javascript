@@ -1,6 +1,6 @@
 # Repositorio que vai descrever a minha trilha de estudos de Javascript através da documentação oficial. 
 
-- Link da documentação oficial do Javascript => https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
+- [Link da documentação oficial do Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 # Atividades: :pencil: :man_technologist:
 
