@@ -17,7 +17,7 @@ function conferirPalpite() {
 
     if(contagemPalpites === 1) {
 
-        palpites.textContent = 'Palpites anteriores';
+        palpites.textContent = 'Palpites anteriores ';
     }
     palpites.textContent += palpiteUsuario + ' ';
 
