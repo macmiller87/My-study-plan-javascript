@@ -10,3 +10,4 @@
   <p> Essa sessão trata-se de uma versão do código anterior (Jogo advinhe o número), em que foram colocados erros propositalmente no código em javascript,   para ser aprendido como identificar e debugar os erros, com uma sequência de explicações nessa sessão da documentação do javascript. </p>
 - [Variáveis](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/Variables)
 - [Matemática básica no javascript, números e operadores](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/Math)
+- [Strings, trabalhando com textos strings em javascript](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/Strings)
