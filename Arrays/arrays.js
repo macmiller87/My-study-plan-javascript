@@ -55,3 +55,18 @@ myArray.push('Cardiff'); // Neste caso estamos usando ométodo push, para inseri
 var newLength = myArray.push('Bristol'); // Neste caso está sendo criada uma nova variavel, estamos atribuindo masi um valor para o array myArray com o método push
 myArray;                                // aqui estamos chamando o array
 newLength;  // E aqui estamos chamando a variavel que foi declarada, e estamos guardando o novo valor do comprimento total do array myArray nesta variavel newLenght
+
+myArray.pop(); // Com este método pop(), eé possível remover o ultimo item do array.
+
+var removedItem = myArray.pop(); // Aqui podemos pegar o item que removemos acima, e atribuir a nova variavel removedItem.
+myArray; // Aqui estamos chamando o array junto com o método pop(), que está nal  linha acima.
+removedItem; // Aqui estamos chamando a variavel removedItem, que vai apresentar o item que foi removido do array, e foi atribuido a está variavel.
+
+myArray.unshift('Edinburgh'); // Neste método funciona parecido com o (push) e o (pop), com a diferença que ele inclui um novo item ('Edinburgh'),
+myArray;                     // para o array no inicio do indice ou seja indice 0.
+
+var removedItem = myArray.shift(); // Neste método vamos remover o item inicial ou (indice 0), que se encontra no array myArray, e atribuir a nova variavel removedItem.
+myArray; // Aqui estamos chamando o array junto com o método shift(), que está nal  linha acima.
+removedItem; // Aqui estamos chamando a variavel removedItem, que vai apresentar o item que foi removido do array, e foi atribuido a está variavel.
+
+
