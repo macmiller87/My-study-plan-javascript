@@ -27,7 +27,7 @@ var products = ['Underpants:6.99','Socks:5.99','T-shirt:14.99','Trousers:31.99',
 
 for (var i = 0; i < products.length; i++) { // number 2
   // number 3
-	var subArray = products[i].split(':');
+    var subArray = products[i].split(':');
     var nomes = subArray[0];
   // number 4
     var preco = Number(subArray[1]);
