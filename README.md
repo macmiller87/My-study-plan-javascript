@@ -13,3 +13,4 @@
 - [Strings, trabalhando com textos em javascript](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/Strings)
 - [Métodos úteis de string](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/Useful_string_methods)
 - [Arrays](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/Arrays)
+- [Projeto avaliativo (Gerador de histórias bobas)](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/Silly_story_generator)
