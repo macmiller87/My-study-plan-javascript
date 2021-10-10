@@ -22,9 +22,14 @@ randomize.addEventListener('click', result);
 function result() {
 
   let newStory = storyText;
-  var xItem = randomValueFromArray(insertX.slice(0));
-  var yItem = randomValueFromArray(insertY.slice(0));
-  var zItem = randomValueFromArray(insertZ.slice(0));
+  let xItem = randomValueFromArray(insertX.slice(0));
+  let yItem = randomValueFromArray(insertY.slice(0));
+  let zItem = randomValueFromArray(insertZ.slice(0));
+  
+  newStory = newStory.replace(':insertx:', xItem);
+  newStory = newStory.replace(':insertx:', xItem);
+  newStory = newStory.replace(':inserty:', yItem);
+  newStory = newStory.replace(':insertz:', zItem);
   
   if(customName.value !== '') {
     
