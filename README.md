@@ -18,3 +18,5 @@
 - [Projeto avaliativo (Gerador de histórias bobas)](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/Silly_story_generator)
 
 # Modulo Elemento construtivo do javascript
+
+- [Tomando decisões no seu código (condicionais)](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/Building_blocks/conditionals)
