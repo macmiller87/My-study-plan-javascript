@@ -9,7 +9,7 @@ Neste exemplo, você terá o exemplo de operador ternário que vimos anteriormen
 */
 
 var select = document.querySelector('select');
-var html = document.querySelector('.output');
+var html = document.querySelector('html');
 
 select.onchange = function() {
     
