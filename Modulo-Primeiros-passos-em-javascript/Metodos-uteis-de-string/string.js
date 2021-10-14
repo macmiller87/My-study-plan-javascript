@@ -43,4 +43,12 @@ language.toUpperCase(); // Esse método converte a string toda em caixa alta.
 browserType.replace('moz','van'); // Esse método seta o conjunto de string que vc quer substituir  neste exemplo ('moz'), e troca por ('van'), que vai somar com o restante da string, neste caso ficaria VANILLA,
                                   // ou seja (van) que foi o conjunto setado para substituir, mais o restante da string illa de moz(illa).
 
-                              
+
+
+/* Método join */
+
+/* Se nenhum parâmetro é incluído para especificar a combinação/delimitação de caractere, uma vírgula é usada por padrão */
+
+var myArray = ['I', 'love', 'chocolate', 'frogs'];
+
+var madeAString = myArray.join(' '); // Eeste método como o própio nome já diz, junta as strings e pode colocar o caracter especifico entre as strings quando é informado  dentro dos parenteses join(' ').
