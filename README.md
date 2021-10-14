@@ -21,3 +21,4 @@
 
 - [Tomando decisões no seu código (condicionais)](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/Building_blocks/conditionals)
 - [Código em loop](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/Building_blocks/Looping_code)
+- [Funções blocos reutilizáveis de código](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/Building_blocks/Functions)
