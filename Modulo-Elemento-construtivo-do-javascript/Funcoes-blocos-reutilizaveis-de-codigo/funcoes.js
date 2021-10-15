@@ -8,7 +8,7 @@ function myFunction() {
 
 }
   
-myFunction() // Chama a função um vez
+myFunction(); // Chama a função um vez
 
 
 /* funções anônimas */
