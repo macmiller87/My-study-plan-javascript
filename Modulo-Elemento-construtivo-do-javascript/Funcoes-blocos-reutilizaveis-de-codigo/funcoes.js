@@ -45,7 +45,7 @@ var myGreeting = function() {
 myGreeting();
 
 
-/* Exemplo de funções dentro de funções */
+/* Exemplo de função dentro de funções */
 
 
 function myBigFunction() {
