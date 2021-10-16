@@ -2,14 +2,16 @@ let x = 1;
 
 function a() {
 
-  let y = 2;
-  
+  var y = 2;
+  output(z);
+
 }
 
 function b() {
 
-  let z = 3;
-
+  var z = 3;
+  output(y);
+  
 }
 
 function output(value) {
