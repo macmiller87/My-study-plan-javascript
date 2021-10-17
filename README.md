@@ -23,3 +23,4 @@
 - [Código em loop](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/Building_blocks/Looping_code)
 - [Funções blocos reutilizáveis de código](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/Building_blocks/Functions)
 - [Construa sua própia função](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/Building_blocks/Build_your_own_function)
+- [Valores de retorno de função](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/Building_blocks/Return_values)
