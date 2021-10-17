@@ -19,13 +19,13 @@ function squared(num) {
 
   function cubicle(num) {
 
-    return  Math.cbrt(num);
+    return  Math.cbrt(num); // Função Math.cbrt calcula a raiz cúbica do número
 
   }
 
   function circleCircumferencewithaRadius(num) {
 
-    return 2 * Math.PI * num;
+    return 2 * Math.PI * num; // Função Math.PI calcula a circunferência de um número com raio 
 
   }
   
