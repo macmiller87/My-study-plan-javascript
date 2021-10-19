@@ -46,7 +46,7 @@ windown.onkeypress = // A cor mudará quando uma tecla for pressionada no teclad
   
 /* Exemplo da mesma função com o uso da função addEventListener */
   
-var btn = document.querySelector('button');
+btn = document.querySelector('button');
 
 function bgChange() {
   
