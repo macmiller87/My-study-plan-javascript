@@ -25,3 +25,4 @@
 - [Construa sua própia função](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/Building_blocks/Build_your_own_function)
 - [Valores de retorno de função](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/Building_blocks/Return_values)
 - [Introdução a eventos](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/Building_blocks/Events)
+- [Projeto avaliativo (Galeria de imagens)](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/Building_blocks/Image_gallery)
