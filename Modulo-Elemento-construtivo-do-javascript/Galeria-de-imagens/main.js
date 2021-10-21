@@ -31,7 +31,7 @@ for(let i = 0; i < 5; i++) {
 }
  
 btn.onclick = function(src, adressImage) {
- 
+    
     displayedImage =  adressImage;
     return adressImage;
     
