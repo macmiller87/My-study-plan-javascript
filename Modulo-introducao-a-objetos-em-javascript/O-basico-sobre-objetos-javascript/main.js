@@ -17,5 +17,32 @@ var pessoa = {
       alert('Oi! Eu sou ' + this.nome[0] + '.');
 
     }
-  };
-  
+};
+
+
+var myDataName = 'altura';
+var myDataValue = '1.75m';
+pessoa[myDataName] = myDataValue;
+
+
+
+/* Exemplo de uso de chamada dos objetos, as duas formas de chamar, tem o mesmo resultado */
+
+pessoa.idade;
+pessoa.nome.primeiro;
+
+
+pessoa['idade'];
+pessoa['nome']['primeiro'];
+
+
+/* Sintaxe para declarar um objeto com Nome e Valor */
+
+
+var nomeDoObjeto = {
+
+  nomeMembro1: valorMembro1,
+  nomeMembro2: valorMembro2,
+  nomeMembro3: valorMembro3
+
+};
