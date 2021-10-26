@@ -28,3 +28,5 @@
 - [Projeto avaliativo (Galeria de imagens)](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/Building_blocks/Image_gallery)
 
 # Modulo Introdução a objetos em javascript
+
+- [O básico sobre objetos javascript](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/Objects/Basics)
