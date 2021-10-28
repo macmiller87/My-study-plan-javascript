@@ -30,3 +30,4 @@
 # Modulo Introdução a objetos em javascript
 
 - [O básico sobre objetos javascript](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/Objects/Basics)
+- [Javascript orientado a objetos para iniciantes](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/Objects/Object-oriented_JS)
