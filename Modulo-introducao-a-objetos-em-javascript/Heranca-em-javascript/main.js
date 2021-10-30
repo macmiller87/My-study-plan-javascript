@@ -160,3 +160,45 @@ teacher1.bio();
 teacher1.subject;
 teacher1.greeting();
 teacher1.farewell();
+
+
+/* Aqui estamos implementando a classe Student, que foi proposto no modelo do objeto, no tópico Javascript orientado a objetos para iniciantes */
+
+function Student(first, last, age, gender, interests,) {
+
+  Person.call(this, first, last, age, gender, interests);
+
+}
+
+Student.prototype = Object.create(Person.prototype);
+
+
+Student.prototype.greeting = function() {
+
+  var pronoun2;
+
+  if(this.gender === 'male' || this.gender === 'Male' || this.gender === 'm' || this.gender === 'M') {
+
+    pronoun2 = 'He likes ';
+
+  } else if(this.gender === 'female' || this.gender === 'Female' || this.gender === 'f' || this.gender === 'F') {
+
+    pronoun2 = 'She likes ';
+
+  } else {
+
+    pronoun2 = 'They like ';
+
+  }
+
+  alert('YO! I\'m ' + this.name.first + '.'); 
+
+};
+
+var student1 = new Student('Macmiller', 'Duarte', 34, 'Male', ['Programin', 'Jiu-jitsu', 'Game']);
+
+student1.name.first;
+student1.interests[0];
+student1.bio();
+student1.greeting();
+student1.farewell();
