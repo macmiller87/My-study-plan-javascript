@@ -32,3 +32,4 @@
 - [O básico sobre objetos javascript](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/Objects/Basics)
 - [Javascript orientado a objetos para iniciantes](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/Objects/Object-oriented_JS)
 - [Protótipos de objetos](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/Objects/Object_prototypes)
+- [Herança em javascript](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/Objects/Inheritance)
