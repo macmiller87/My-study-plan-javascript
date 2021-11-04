@@ -4,7 +4,7 @@
 
 # Atividades: :pencil: :man_technologist:
 
-# Modulo Primeiros passos em javascript
+# Módulo Primeiros passos em javascript
 
 - [Manipulando Javascript inline](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/What_is_JavaScript#manipuladores_de_javascript_inline)
 - [Primeiro mergulho no javascript, (Jogo advinhe o número)](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/A_first_splash)
@@ -17,7 +17,7 @@
 - [Arrays](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/Arrays)
 - [Projeto avaliativo (Gerador de histórias bobas)](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/Silly_story_generator)
 
-# Modulo Elemento construtivo do javascript
+# Módulo Elemento construtivo do javascript
 
 - [Tomando decisões no seu código (condicionais)](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/Building_blocks/conditionals)
 - [Código em loop](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/Building_blocks/Looping_code)
@@ -27,7 +27,7 @@
 - [Introdução a eventos](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/Building_blocks/Events)
 - [Projeto avaliativo (Galeria de imagens)](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/Building_blocks/Image_gallery)
 
-# Modulo Introdução a objetos em javascript
+# Módulo Introdução a objetos em javascript
 
 - [O básico sobre objetos javascript](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/Objects/Basics)
 - [Javascript orientado a objetos para iniciantes](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/Objects/Object-oriented_JS)
