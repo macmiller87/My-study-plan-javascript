@@ -35,3 +35,4 @@
 - [Herança em javascript](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/Objects/Inheritance)
 - [Trabalhando com json](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/Objects/JSON)
 - [Prática de construção de objetos](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/Objects/Object_building_practice)
+- [Projeto avaliativo (Adicionando recursos à nossa demonstração de bolas pulantes)](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/Objects/Adding_bouncing_balls_features)
